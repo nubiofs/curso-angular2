@@ -32,3 +32,6 @@ Aulas publicadas/programadas
 * 14: Input properties
 * 15: Output properties
 * 16: Exemplo: componente lista tweets
+* 
+
+http://builtwithangular2.com/
